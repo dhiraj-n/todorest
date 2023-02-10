@@ -32,5 +32,5 @@ Collection of the mainly used frameworks in this project. There are more, but th
 *   [Spring Boot](https://docs.spring.io/spring-boot/docs/2.2.0.M6/reference/htmlsingle/)
 
 Small change in readme to check auto CI/CD...
-
+Dummy change 2.
 
